@@ -25,7 +25,8 @@ In this tutorial, we will use the public [Llama-3.1-8B node](https://github.com/
 | Chat | https://llama8b.gaia.domains/v1/ | llama |
 | Embedding | https://llama8b.gaia.domains/v1/ | nomic-embed |
 
-**You will also need to make sure your Docker engine is running.** Because the Agent Zero framework will leverage Docker to execute the generated code.
+**You will also need to make 1
+ sure your Docker engine is running.** Because the Agent Zero framework will leverage Docker to execute the generated code.
 
 > You can start a local LLM service using [Gaia](https://github.com/GaiaNet-AI/node-configs/tree/main/llama-3.1-8b-instruct) or [LlamaEdge](https://llamaedge.com/docs/user-guide/quick-start-command) or [Moxin](https://github.com/moxin-org/moxin), and then use `http://localhost:8080/v1/` as the LLM API service endpoint URL.
 
