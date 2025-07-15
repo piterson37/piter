@@ -13,7 +13,8 @@ It is designed to be dynamic, organically growing, and learning as users use it.
 
 ## Prerequisites
 
-You will need a Gaia node to provide LLM services to the agent app. You can
+You will need a Gaia node to provide LLM services to the agent app. You can 02
+
 
 * [run your own node](../../getting-started/quick-start)
 * [use a public node](../nodes)
