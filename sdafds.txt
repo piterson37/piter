@@ -1,5 +1,5 @@
 # Gaia
-
+2
 > Decentralizing Generative AI Chatbot and Agent
 
 This file contains all documentation content in a single document following the llmtxt.org standard.
