@@ -6,7 +6,7 @@ This file contains all documentation content in a single document following the 
 
 ## Agent Zero
  
-# Agent Zero see2 35 4 5 4 5 6 4 7 1 6 8 3 8 2 2 5 3
+# Agent Zero see2 35 4 5 4 5 6 4 7 1 6 8 3 8 2 2 5 3 2
 
 
 [Agent Zero](https://github.com/frdel/agent-zero) is a general purpose AI agent application. You can simply ask it to accomplish tasks on the command line. 
