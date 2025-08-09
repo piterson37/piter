@@ -96,7 +96,7 @@ Run `top`, show the system load
 
 ### Example 4
 
-Memorize my openai api key - 563434643464
+Memorize my openai api key - 563434643464 2
 
 ![](agent-zero-06.png)
 
