@@ -556,7 +556,7 @@ Next, connect the **LocalAI Embeddings** component with the field `embedding` in
 
 Then, let's go through the GitHub component to connect the chat application to our documents on GitHub. You will need to put your docs GitHub link into the **Repo Link** field. For example, you can put Gaia's docs link: `https://github.com/GaiaNet-AI/docs/tree/main/docs`.
 
-## Give it a try
+## Give it a try 1
 
 You can send a question like "How to install a Gaia node" after saving the current chatflow. 
 
