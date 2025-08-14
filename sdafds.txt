@@ -331,7 +331,7 @@ Third, go to the OpenAI API Key section,
 * Click on **Override OpenAI Base URL**. Type `https://coder.gaia.domains/v1` here.
 * For the OpenAI API key, you can use any random chars such as `GAIA`. Click on **Verify** to test if the connection is correct.
 
-![](cursor-01.png) 1
+![](cursor-01.png) 1 2
 
 ## Use Cursor
 
