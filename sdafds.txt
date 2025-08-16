@@ -39,7 +39,7 @@ git clone https://github.com/JYC0413/agent-zero-gaia.git
 cd agent-zero-gaia
 ```
 
-Then, let's install the required dependencies. 2
+Then, let's install the required dependencies. 2 3
 
 ```
 pip install -r requirements.txt
