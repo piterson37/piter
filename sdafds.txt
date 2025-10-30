@@ -39,7 +39,8 @@ git clone https://github.com/JYC0413/agent-zero-gaia.git
 cd agent-zero-gaia
 ```
 
-Then, let's install the required dependencies. 2 3 4 5 6 4 5 6 7 8 9 2 3 4 5 6 7 8 9 1 2 3 4 5 6 c b v x h t n u i t v y t u r e e w w x c x v c c f x v g  c f t e  v t e  r w t q e  rdatasets variables xfacto creasier about
+Then, let's install the required dependencies. 2 3 4 5 6 4 5 6 7 8 9 2 3 4 5 6 7 8 9 1 2 3 4 5 6 c b v x h t n u i t v y t u r e e w w x c x v c c f x v g  c f t e  v t e  r w t q e e
+  rdatasets variables xfacto creasier about
 
 ```
 pip install -r requirements.txt
